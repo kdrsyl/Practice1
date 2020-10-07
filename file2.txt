@@ -1,2 +1,10 @@
 
-this is file 2 txt
+
+
+// will learn
+4. (new) now we have a new idea we want to try out
+	without really changing the main (branch) timeline
+5. create a new branch in GitHub Desktop
+6. add some changes and commit
+7. go back to your main branch and observe it remain unchanged
+8. merge your changes you have made in different branch into main
