@@ -1,4 +1,8 @@
 
 this is my first txt file
 
+<<<<<<< HEAD
 //new changes
+=======
+// adding more changes into file1.txt
+>>>>>>> feature-k
